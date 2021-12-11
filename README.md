@@ -1,4 +1,5 @@
 ### Hi there 👋
+* [Velog](https://velog.io/@golony6449)
 
 ### Skills
 * Python : Django
