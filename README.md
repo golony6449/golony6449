@@ -1,6 +1,10 @@
 ### Hi there 👋
 * [Velog](https://velog.io/@golony6449)
 
+### now i'm trying to
+* Java: Spring Boot
+* Go: gin
+
 ### Skills
 * Python : Django
 * Git : Github Action
