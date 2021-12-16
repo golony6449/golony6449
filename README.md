@@ -12,8 +12,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=golony6449&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golony6449&layout=compact&theme=dracula)
-
 
 
 <!--
