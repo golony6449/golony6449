@@ -3,10 +3,10 @@
 
 ### now i'm trying to
 * Java: Spring Boot
-* Go: gin
 
 ### Skills
-* Python : Django
+* Python : Django (w/ DRF)
+* Java: Spring Boot
 * Git : Github Action
 * AWS, Google Cloud Platform
 
